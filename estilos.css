@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+  background: #f5f5f5;
+  color: #222;
+}
+
+header, section, footer {
+  background: #fff;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
